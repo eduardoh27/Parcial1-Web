@@ -4,12 +4,6 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Login from './components/Login';
-import CyclingSection from './components/CyclingSection';
-import SwimmingSection from './components/SwimmingSection';
-import RunningSection from './components/RunningSection';
-import Home from './components/Home';
-import UserInfoBar from './components/UserInfoBar';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(

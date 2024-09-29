@@ -1,0 +1,47 @@
+.user-info-bar {
+    background-color: #2b6069;
+    padding: 10px 0;
+  }
+  
+  .user-info-container {
+    max-width: 90%;
+    margin: 0 auto; 
+  }
+  
+  .icon {
+    font-size: 2rem;
+    color: #fff; 
+  }
+  
+  .activity-time {
+    font-size: 1.5rem; 
+    color: #fff;
+    margin-left: 10px; 
+  }
+  
+  .user-avatar {
+    width: 50px;
+    height: 50px;
+  }
+  
+  .user-name {
+    color: #fff;
+    margin-left: 10px; 
+  }
+  
+  .activity-data {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .icon-text {
+    display: flex;
+    align-items: center; 
+  }
+  
+  .user-info {
+    display: flex;
+    align-items: center; 
+  }
+  
