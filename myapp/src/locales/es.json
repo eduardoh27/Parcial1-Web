@@ -1,0 +1,24 @@
+{
+    "login": {
+      "title": "Iniciar sesión",
+      "email": "Correo electrónico",
+      "email_placeholder": "Introduce el correo electrónico",
+      "password": "Contraseña",
+      "password_placeholder": "Introduce la contraseña",
+      "button": "Iniciar sesión",
+      "invalid_email": "Correo no válido. Por favor, ingrese un correo electrónico válido.",
+      "invalid_password": "La contraseña debe tener al menos 8 caracteres."
+    }
+    ,
+    "home": {
+      "cycling": "Ciclismo",
+      "running": "Correr",
+      "swimming": "Nadar",
+      "session": "Sesión de {{sport}}",  
+      "route_around_bay": "Recorrido alrededor de la bahía de",
+      "close": "Cerrar",
+      "distance_unit": "K"
+    }
+
+  }
+  

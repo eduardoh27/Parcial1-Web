@@ -7,7 +7,7 @@ function UserInfoBar() {
   const [userData, setUserData] = useState(null);
 
   useEffect(() => {
-    fetch('https://my.api.mockaroo.com/users.json?key=34c64d20')
+    fetch('https://my.api.mockaroo.com/users.json?key=e52222d0')
       .then((response) => response.json())
       .then((data) => {
         setUserData(data[0]); 

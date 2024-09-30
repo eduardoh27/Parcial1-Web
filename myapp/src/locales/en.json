@@ -1,0 +1,24 @@
+{
+    "login": {
+      "title": "Log in",
+      "email": "Email",
+      "email_placeholder": "Enter email",
+      "password": "Password",
+      "password_placeholder": "Enter password",
+      "button": "Log in",
+      "invalid_email": "Invalid email. Please enter a valid email address.",
+      "invalid_password": "Password must be at least 8 characters long."
+    }
+    ,
+    "home": {
+      "cycling": "Cycling",
+      "running": "Running",
+      "swimming": "Swimming",
+      "session": "{{sport}} Session",
+      "route_around_bay": "Route around the bay of",
+      "close": "Close",
+      "distance_unit": "Mi"
+    }
+
+  }
+  
