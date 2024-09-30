@@ -2,35 +2,6 @@
 
 Esta aplicación es un MVP para un rastreador de tiempos deportivos enfocado en triatlón. Se ha desarrollado utilizando React con pantllas básicas como autenticación (login), visualización de sesiones deportivas (Running, Swimming, Cycling) y un detalle modal para cada sesión. La aplicación también incluye soporte para internacionalización (i18n) en inglés y español.
 
-## Estructura de carpetas
-
-```
-myapp/
-│
-├── public/
-├── src/
-│   ├── components/
-│   │   ├── Home.js
-│   │   ├── LanguageSwitcher.js
-│   │   ├── Login.js
-│   │   ├── SportSection.js
-│   │   ├── UserInfoBar.js
-│   │   ├── css/
-│   │   │   ├── Home.css
-│   │   │   ├── LanguageSwitcher.css
-│   │   │   ├── Login.css
-│   │   │   ├── SportSection.css
-│   │   │   ├── UserInfoBar.css
-│   ├── locales/
-│   │   ├── en.json
-│   │   ├── es.json
-│   ├── App.js
-│   ├── index.js
-│   ├── i18n.js
-├── package.json
-├── README.md
-```
-
 ## Instalación
 
 ### Requisitos
@@ -42,7 +13,7 @@ myapp/
 1. Clona el repositorio.
    
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/eduardoh27/Parcial1-Web
    ```
 
 2. Navega al directorio del proyecto.
@@ -123,15 +94,15 @@ myapp/
 ### Login
 - Pantalla de inicio de sesión con validación de correo y contraseña.
 
-![alt text](login.png)
+![alt text](imgs/login.png)
 
 ### Home
 - Tres secciones de deportes (Cycling, Running, Swimming) mostrando tarjetas de actividades deportivas.
 - Barra inferior con la información del usuario (nombre, imagen, mejores tiempos).
 
-![alt text](home.png)
+![alt text](imgs/home.png)
 
 ### Detalle de la sesión
 - Al hacer clic en una tarjeta de actividad, se muestra un modal con la información detallada de la sesión.
 
-![alt text](detail.png)
+![alt text](imgs/detail.png)
