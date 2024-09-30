@@ -1,0 +1,29 @@
+.login-background {
+    background-image: url('https://images.unsplash.com/photo-1534289692684-c02577d5560d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .login-container.container {
+    width: 40%;
+  }
+
+  .login-title {
+    font-weight: 600;
+  }
+
+  .login-card.card {
+    width: 60%;
+    margin: 0 auto;
+  }
+
+
+  .login-button.btn.btn-primary {
+    background-color: #3f82dc;
+    width: 60%; 
+    color: white; 
+  }
